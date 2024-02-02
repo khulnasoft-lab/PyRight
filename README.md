@@ -1,4 +1,4 @@
-![Pyright](https://github.com/microsoft/pyright/blob/main/docs/img/PyrightLarge.png)
+![Pyright](https://github.com/khulnasoft-lab/pyright/blob/main/docs/img/PyrightLarge.png)
 
 # Static Type Checker for Python
 
@@ -18,9 +18,9 @@ Refer to [the documentation](https://microsoft.github.io/pyright) for installati
 
 
 ## Community
-Do you have questions about Pyright or Python type annotations in general? Post your questions in [the discussion section](https://github.com/microsoft/pyright/discussions).
+Do you have questions about Pyright or Python type annotations in general? Post your questions in [the discussion section](https://github.com/khulnasoft-lab/pyright/discussions).
 
-If you would like to report a bug or request an enhancement, file a new issue in either the [pyright](https://github.com/microsoft/pyright/issues) or [pylance-release](https://github.com/microsoft/pylance-release/issues) issue tracker. In general, core type checking functionality is associated with Pyright while language service functionality is associated with Pylance, but the same contributors monitor both repos. For best results, provide the information requested in the issue template.
+If you would like to report a bug or request an enhancement, file a new issue in either the [pyright](https://github.com/khulnasoft-lab/pyright/issues) or [pylance-release](https://github.com/microsoft/pylance-release/issues) issue tracker. In general, core type checking functionality is associated with Pyright while language service functionality is associated with Pylance, but the same contributors monitor both repos. For best results, provide the information requested in the issue template.
 
 
 ## Contributing

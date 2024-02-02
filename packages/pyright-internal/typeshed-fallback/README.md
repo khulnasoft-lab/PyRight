@@ -27,7 +27,7 @@ for details.
 ## Using
 
 If you're just using a type checker ([mypy](https://github.com/python/mypy/),
-[pyright](https://github.com/microsoft/pyright),
+[pyright](https://github.com/khulnasoft-lab/pyright),
 [pytype](https://github.com/google/pytype/), PyCharm, ...), as opposed to
 developing it, you don't need to interact with the typeshed repo at
 all: a copy of standard library part of typeshed is bundled with type checkers.

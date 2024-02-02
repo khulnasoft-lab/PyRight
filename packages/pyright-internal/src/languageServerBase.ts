@@ -1399,7 +1399,7 @@ export abstract class LanguageServerBase implements LanguageServerInterface, Dis
         const rule = diag.getRule();
         if (rule) {
             // Configuration.md is configured to have a link for every rule name.
-            return `https://github.com/microsoft/pyright/blob/main/docs/configuration.md#${rule}`;
+            return `https://github.com/khulnasoft-lab/pyright/blob/main/docs/configuration.md#${rule}`;
         }
         return undefined;
     }

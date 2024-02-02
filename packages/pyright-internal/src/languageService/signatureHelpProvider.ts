@@ -210,7 +210,7 @@ export class SignatureHelpProvider {
             //
             // See:
             //   - https://github.com/microsoft/language-server-protocol/issues/1271
-            //   - https://github.com/microsoft/pyright/pull/1783
+            //   - https://github.com/khulnasoft-lab/pyright/pull/1783
             activeParameter = Math.max(...signatures.map((s) => s.parameters?.length ?? 0));
         }
 

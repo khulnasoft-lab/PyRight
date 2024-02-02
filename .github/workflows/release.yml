@@ -10,7 +10,7 @@ env:
 
 jobs:
   publish_extension:
-    if: ${{ github.repository == 'microsoft/pyright' }}
+    if: ${{ github.repository == 'khulnasoft-lab/pyright' }}
     runs-on: ubuntu-latest
     name: Publish extension to marketplace
 

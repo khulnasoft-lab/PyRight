@@ -14,7 +14,7 @@ on:
 
 jobs:
   typecheck:
-    if: github.repository == 'microsoft/pyright'
+    if: github.repository == 'khulnasoft-lab/pyright'
     runs-on: ubuntu-latest
     name: Typecheck
 
@@ -41,7 +41,7 @@ jobs:
       - run: npx lerna exec --stream --no-bail -- tsc --noEmit
 
   style:
-    if: github.repository == 'microsoft/pyright'
+    if: github.repository == 'khulnasoft-lab/pyright'
     runs-on: ubuntu-latest
     name: Style
 

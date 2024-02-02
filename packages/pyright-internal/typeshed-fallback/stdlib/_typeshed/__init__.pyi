@@ -329,7 +329,7 @@ TraceFunction: TypeAlias = Callable[[FrameType, str, Any], TraceFunction | None]
 # experimental
 # Might not work as expected for pyright, see
 #   https://github.com/python/typeshed/pull/9362
-#   https://github.com/microsoft/pyright/issues/4339
+#   https://github.com/khulnasoft-lab/pyright/issues/4339
 class DataclassInstance(Protocol):
     __dataclass_fields__: ClassVar[dict[str, Field[Any]]]
 

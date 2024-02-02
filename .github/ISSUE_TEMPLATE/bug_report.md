@@ -9,7 +9,7 @@ assignees: ''
 
 Note: if you are reporting a wrong signature of a function or a class in the standard library, then the typeshed tracker is better suited for this report: https://github.com/python/typeshed/issues.
 
-If you have a question about typing or a behavior that you’re seeing in Pyright (as opposed to a bug report or enhancement request), consider posting to the [Pyright discussion forum](https://github.com/microsoft/pyright/discussions).
+If you have a question about typing or a behavior that you’re seeing in Pyright (as opposed to a bug report or enhancement request), consider posting to the [Pyright discussion forum](https://github.com/khulnasoft-lab/pyright/discussions).
 
 **Describe the bug**
 A clear and concise description of the behavior you are seeing and the expected behavior along with steps to reproduce it.

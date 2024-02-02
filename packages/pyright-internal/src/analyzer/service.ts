@@ -1140,7 +1140,7 @@ export class AnalyzerService {
                             'To reduce this time, open a workspace directory with fewer files ' +
                             'or add a pyrightconfig.json configuration file with an "exclude" section to exclude ' +
                             'subdirectories from your workspace. For more details, refer to ' +
-                            'https://github.com/microsoft/pyright/blob/main/docs/configuration.md.'
+                            'https://github.com/khulnasoft-lab/pyright/blob/main/docs/configuration.md.'
                     );
                     loggedLongOperationError = true;
                 }
