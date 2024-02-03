@@ -44,6 +44,6 @@
         "shx": "^0.3.4",
         "ts-jest": "^29.1.1",
         "typescript": "~5.2",
-        "word-wrap": "1.2.4"
+        "word-wrap": "1.2.5"
     }
 }
