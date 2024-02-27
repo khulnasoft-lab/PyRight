@@ -8,4 +8,4 @@ For most VS Code users, we recommend using the Pylance extension rather than Pyr
 
 ## Documentation
 
-Refer to [the documentation](https://microsoft.github.io/pyright) for installation, configuration, and usage details.
+Refer to [the documentation](https://khulnasoft-lab.github.io/pyright) for installation, configuration, and usage details.

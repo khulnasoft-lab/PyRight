@@ -4,7 +4,7 @@
 
 Pyright is a full-featured, standards-based static type checker for Python. It is designed for high performance and can be used with large Python source bases.
 
-Pyright includes both a [command-line tool](https://microsoft.github.io/pyright/#/command-line) and an [extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright).
+Pyright includes both a [command-line tool](https://khulnasoft-lab.github.io/pyright/#/command-line) and an [extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright).
 
 
 ## Pyright Playground
@@ -14,7 +14,7 @@ Try Pyright in your browser using the [Pyright Playground](https://pyright-play.
 
 ## Documentation
 
-Refer to [the documentation](https://microsoft.github.io/pyright) for installation, configuration, and usage details.
+Refer to [the documentation](https://khulnasoft-lab.github.io/pyright) for installation, configuration, and usage details.
 
 
 ## Community

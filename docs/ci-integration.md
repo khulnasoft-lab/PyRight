@@ -2,12 +2,12 @@
 
 ### Adding Pyright badge to README.md
 
-[![Checked with pyright](https://microsoft.github.io/pyright/img/pyright_badge.svg)](https://microsoft.github.io/pyright/)
+[![Checked with pyright](https://khulnasoft-lab.github.io/pyright/img/pyright_badge.svg)](https://khulnasoft-lab.github.io/pyright/)
 
 To add a “pyright: checked” SVG badge to your project’s README.md file, use the following:
 
 ```text
-[![Checked with pyright](https://microsoft.github.io/pyright/img/pyright_badge.svg)](https://microsoft.github.io/pyright/)
+[![Checked with pyright](https://khulnasoft-lab.github.io/pyright/img/pyright_badge.svg)](https://khulnasoft-lab.github.io/pyright/)
 ```
 
 ### Running Pyright as a github action
